@@ -4,6 +4,8 @@ A small native macOS app for starting and stopping
 [ds4-server](https://github.com/antirez/ds4) (DwarfStar) with the options you
 want, without typing long command lines.
 
+![DS4 Launcher running DeepSeek V4 Flash with a 1M context](docs/screenshot.png)
+
 ## Features
 
 - **Model picker.** Scans your models folder for `.gguf` files and shows their
